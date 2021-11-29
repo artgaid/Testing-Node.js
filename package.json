@@ -1,0 +1,25 @@
+{
+  "name": "testing-node",
+  "version": "1.0.0",
+  "description": "My testing node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artgaid/Testing-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artgaid/Testing-Node.js/issues"
+  },
+  "homepage": "https://github.com/artgaid/Testing-Node.js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "moment": "^2.29.1",
+    "yargs": "^17.2.1"
+  }
+}
